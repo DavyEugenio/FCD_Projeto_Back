@@ -1,0 +1,152 @@
+Game ID,Data do Jogo,Adversário,V ou D,Casa/Fora,PTS,REB,AST,Placar do Jogo,Tentativas de Cestas de 3 PTS,Cestas de 3 PTS Marcados,Tempo de Permanência do Jogador em Quadra
+0012400008,Oct 6,Detroit Pistons,D,Fora,8,4,0,120 - 87,5,2,15:18
+0012400008,Oct 6,Detroit Pistons,D,Fora,15,2,4,120 - 87,6,4,17:18
+0012400008,Oct 6,Detroit Pistons,D,Fora,0,0,0,120 - 87,0,0,
+0012400028,Oct 10,Los Angeles Lakers,D,Casa,20,7,2,107 - 102,0,0,19:55
+0012400028,Oct 10,Los Angeles Lakers,D,Casa,0,1,2,107 - 102,1,0,13:28
+0012400028,Oct 10,Los Angeles Lakers,D,Casa,8,4,4,107 - 102,3,1,18:56
+0012400048,Oct 14,Chicago Bulls,V,Casa,24,10,4,107 - 111,0,0,23:00
+0012400048,Oct 14,Chicago Bulls,V,Casa,11,4,1,107 - 111,3,2,25:19
+0012400048,Oct 14,Chicago Bulls,V,Casa,20,5,9,107 - 111,6,2,27:09
+0012400062,Oct 17,Dallas Mavericks,D,Fora,0,0,0,109 - 84,0,0,
+0012400062,Oct 17,Dallas Mavericks,D,Fora,0,0,0,109 - 84,0,0,
+0012400062,Oct 17,Dallas Mavericks,D,Fora,0,0,0,109 - 84,0,0,
+0022400066,Oct 23,Philadelphia 76ers,V,Fora,25,14,7,109 - 124,0,0,31:12
+0022400066,Oct 23,Philadelphia 76ers,V,Fora,10,8,6,109 - 124,6,1,35:32
+0022400066,Oct 23,Philadelphia 76ers,V,Fora,30,9,6,109 - 124,12,6,38:18
+0022400083,Oct 25,Chicago Bulls,D,Casa,38,11,5,133 - 122,1,0,35:08
+0022400083,Oct 25,Chicago Bulls,D,Casa,7,4,1,133 - 122,6,1,29:24
+0022400083,Oct 25,Chicago Bulls,D,Casa,28,4,8,133 - 122,12,3,35:46
+0022400098,Oct 27,Brooklyn Nets,D,Fora,22,12,7,115 - 102,0,0,33:19
+0022400098,Oct 27,Brooklyn Nets,D,Fora,15,4,0,115 - 102,5,3,28:58
+0022400098,Oct 27,Brooklyn Nets,D,Fora,21,4,4,115 - 102,7,1,32:04
+0022400104,Oct 28,Boston Celtics,D,Fora,30,10,6,119 - 108,2,0,39:05
+0022400104,Oct 28,Boston Celtics,D,Fora,13,6,0,119 - 108,4,0,32:10
+0022400104,Oct 28,Boston Celtics,D,Fora,33,7,7,119 - 108,8,2,35:32
+0022400128,Oct 31,Memphis Grizzlies,D,Fora,37,11,4,122 - 99,0,0,33:31
+0022400128,Oct 31,Memphis Grizzlies,D,Fora,12,3,1,122 - 99,6,3,23:34
+0022400128,Oct 31,Memphis Grizzlies,D,Fora,4,2,6,122 - 99,6,0,33:21
+0022400145,Nov 2,Cleveland Cavaliers,D,Casa,34,16,9,114 - 113,0,0,38:52
+0022400145,Nov 2,Cleveland Cavaliers,D,Casa,6,6,2,114 - 113,7,2,34:32
+0022400145,Nov 2,Cleveland Cavaliers,D,Casa,41,4,9,114 - 113,15,10,38:34
+0022400154,Nov 4,Cleveland Cavaliers,D,Fora,13,6,0,116 - 114,5,1,35:44
+0022400154,Nov 4,Cleveland Cavaliers,D,Fora,36,2,7,116 - 114,9,5,37:20
+0022400182,Nov 7,Utah Jazz,V,Casa,31,16,2,100 - 123,0,0,30:13
+0022400182,Nov 7,Utah Jazz,V,Casa,1,5,2,100 - 123,2,0,32:21
+0022400182,Nov 7,Utah Jazz,V,Casa,34,4,7,100 - 123,11,4,37:02
+0022400189,Nov 8,New York Knicks,D,Fora,24,12,2,116 - 94,1,0,32:12
+0022400189,Nov 8,New York Knicks,D,Fora,7,3,1,116 - 94,1,0,24:28
+0022400189,Nov 8,New York Knicks,D,Fora,19,6,6,116 - 94,4,0,34:26
+0022400202,Nov 10,Boston Celtics,D,Casa,43,13,5,113 - 107,2,1,39:09
+0022400202,Nov 10,Boston Celtics,D,Casa,6,1,3,113 - 107,5,2,28:40
+0022400202,Nov 10,Boston Celtics,D,Casa,14,4,6,113 - 107,8,1,35:47
+0022400005,Nov 12,Toronto Raptors,V,Casa,23,4,7,85 - 99,1,0,33:20
+0022400005,Nov 12,Toronto Raptors,V,Casa,13,7,3,85 - 99,10,2,36:51
+0022400223,Nov 13,Detroit Pistons,V,Casa,59,14,7,120 - 127,2,1,43:37
+0022400223,Nov 13,Detroit Pistons,V,Casa,29,8,0,120 - 127,8,5,40:24
+0022400229,Nov 16,Charlotte Hornets,D,Fora,22,15,12,115 - 114,1,0,33:29
+0022400229,Nov 16,Charlotte Hornets,D,Fora,5,3,1,115 - 114,5,1,30:26
+0022400248,Nov 18,Houston Rockets,V,Casa,20,13,4,100 - 101,0,0,35:35
+0022400248,Nov 18,Houston Rockets,V,Casa,27,10,1,100 - 101,8,5,39:38
+0022400248,Nov 18,Houston Rockets,V,Casa,18,4,10,100 - 101,6,0,35:37
+0022400253,Nov 20,Chicago Bulls,V,Casa,41,9,8,106 - 122,1,0,35:22
+0022400253,Nov 20,Chicago Bulls,V,Casa,21,5,3,106 - 122,5,2,34:56
+0022400253,Nov 20,Chicago Bulls,V,Casa,20,5,10,106 - 122,10,2,35:37
+0022400029,Nov 22,Indiana Pacers,V,Casa,37,10,11,117 - 129,0,0,34:45
+0022400029,Nov 22,Indiana Pacers,V,Casa,11,5,3,117 - 129,3,1,32:50
+0022400029,Nov 22,Indiana Pacers,V,Casa,24,5,13,117 - 129,8,3,36:49
+0022400268,Nov 23,Charlotte Hornets,V,Casa,32,11,6,119 - 125,3,1,31:29
+0022400268,Nov 23,Charlotte Hornets,V,Casa,13,8,2,119 - 125,7,3,38:00
+0022400268,Nov 23,Charlotte Hornets,V,Casa,31,4,4,119 - 125,9,3,34:42
+0022400036,Nov 26,Miami Heat,V,Fora,13,2,3,103 - 106,3,3,29:38
+0022400036,Nov 26,Miami Heat,V,Fora,37,3,12,103 - 106,13,8,37:54
+0022400036,Nov 26,Miami Heat,V,Fora,0,0,0,103 - 106,0,0,
+0022400302,Nov 30,Washington Wizards,V,Casa,42,12,11,114 - 124,0,0,37:43
+0022400302,Nov 30,Washington Wizards,V,Casa,18,0,3,114 - 124,10,4,34:56
+0022400302,Nov 30,Washington Wizards,V,Casa,25,5,10,114 - 124,9,5,39:51
+0022400052,Dec 3,Detroit Pistons,V,Fora,28,7,8,107 - 128,0,0,27:41
+0022400052,Dec 3,Detroit Pistons,V,Fora,5,6,1,107 - 128,4,1,32:46
+0022400052,Dec 3,Detroit Pistons,V,Fora,27,4,5,107 - 128,11,5,31:44
+0022400323,Dec 4,Atlanta Hawks,D,Casa,31,11,5,119 - 104,0,0,36:09
+0022400323,Dec 4,Atlanta Hawks,D,Casa,5,6,2,119 - 104,4,1,34:41
+0022400323,Dec 4,Atlanta Hawks,D,Casa,25,4,5,119 - 104,9,5,34:15
+0022400335,Dec 6,Boston Celtics,D,Fora,30,11,1,111 - 105,1,0,36:25
+0022400335,Dec 6,Boston Celtics,D,Fora,5,5,0,111 - 105,2,1,38:17
+0022400335,Dec 6,Boston Celtics,D,Fora,31,5,4,111 - 105,12,4,40:27
+0022400348,Dec 8,Brooklyn Nets,V,Fora,34,11,4,113 - 118,0,0,38:01
+0022400348,Dec 8,Brooklyn Nets,V,Fora,3,3,0,113 - 118,2,0,26:29
+0022400348,Dec 8,Brooklyn Nets,V,Fora,15,6,11,113 - 118,7,2,38:49
+0022401201,Dec 10,Orlando Magic,V,Casa,37,7,1,109 - 114,2,0,35:36
+0022401201,Dec 10,Orlando Magic,V,Casa,7,6,0,109 - 114,3,1,28:25
+0022401201,Dec 10,Orlando Magic,V,Casa,28,2,9,109 - 114,5,2,38:44
+0022401229,Dec 14,Atlanta Hawks,V,Casa,32,14,9,102 - 110,0,0,37:53
+0022401229,Dec 14,Atlanta Hawks,V,Casa,16,3,1,102 - 110,5,2,33:26
+0022401229,Dec 14,Atlanta Hawks,V,Casa,25,6,7,102 - 110,14,5,37:10
+0062400001,Dec 17,Oklahoma City Thunder,V,Fora,26,19,10,81 - 97,0,0,36:33
+0062400001,Dec 17,Oklahoma City Thunder,V,Fora,13,9,1,81 - 97,6,3,37:20
+0062400001,Dec 17,Oklahoma City Thunder,V,Fora,23,4,4,81 - 97,10,5,35:21
+0022400374,Dec 20,Cleveland Cavaliers,D,Fora,33,14,3,124 - 101,1,1,30:25
+0022400374,Dec 20,Cleveland Cavaliers,D,Fora,10,6,1,124 - 101,3,2,24:09
+0022400382,Dec 21,Washington Wizards,V,Casa,14,1,1,101 - 112,5,2,30:40
+0022400398,Dec 23,Chicago Bulls,V,Fora,21,2,1,91 - 112,6,3,36:22
+0022400415,Dec 26,Brooklyn Nets,D,Casa,20,7,2,111 - 105,5,4,33:59
+0022400430,Dec 28,Chicago Bulls,D,Fora,22,7,3,116 - 111,11,3,37:34
+0022400430,Dec 28,Chicago Bulls,D,Fora,29,6,12,116 - 111,9,3,35:28
+0022400450,Dec 31,Indiana Pacers,V,Fora,30,12,5,112 - 120,0,0,34:49
+0022400450,Dec 31,Indiana Pacers,V,Fora,16,5,3,112 - 120,3,0,23:48
+0022400450,Dec 31,Indiana Pacers,V,Fora,9,4,5,112 - 120,9,3,35:57
+0022400465,Jan 2,Brooklyn Nets,D,Casa,27,13,7,113 - 110,0,0,37:06
+0022400465,Jan 2,Brooklyn Nets,D,Casa,7,3,1,113 - 110,1,0,22:41
+0022400465,Jan 2,Brooklyn Nets,D,Casa,23,3,7,113 - 110,13,4,40:18
+0022400483,Jan 4,Portland Trail Blazers,D,Casa,31,11,2,105 - 102,1,0,38:20
+0022400483,Jan 4,Portland Trail Blazers,D,Casa,5,6,0,105 - 102,6,1,23:13
+0022400483,Jan 4,Portland Trail Blazers,D,Casa,16,2,6,105 - 102,7,2,36:41
+0022400497,Jan 6,Toronto Raptors,V,Fora,11,12,13,104 - 128,1,0,28:47
+0022400497,Jan 6,Toronto Raptors,V,Fora,16,4,4,104 - 128,8,4,31:35
+0022400497,Jan 6,Toronto Raptors,V,Fora,25,5,3,104 - 128,8,5,25:44
+0022400516,Jan 8,San Antonio Spurs,V,Casa,25,16,8,105 - 121,1,0,35:42
+0022400516,Jan 8,San Antonio Spurs,V,Casa,22,7,1,105 - 121,11,5,35:23
+0022400516,Jan 8,San Antonio Spurs,V,Casa,26,5,8,105 - 121,7,4,35:20
+0022400526,Jan 10,Orlando Magic,V,Fora,41,14,4,106 - 109,1,0,36:32
+0022400526,Jan 10,Orlando Magic,V,Fora,8,3,0,106 - 109,3,1,34:24
+0022400526,Jan 10,Orlando Magic,V,Fora,29,4,7,106 - 109,7,3,39:41
+0022400539,Jan 12,New York Knicks,D,Fora,24,13,2,140 - 106,1,0,30:56
+0022400539,Jan 12,New York Knicks,D,Fora,5,1,3,140 - 106,5,1,23:12
+0022400539,Jan 12,New York Knicks,D,Fora,22,3,5,140 - 106,7,2,37:16
+0022400558,Jan 14,Sacramento Kings,V,Casa,33,11,13,115 - 130,2,0,36:39
+0022400558,Jan 14,Sacramento Kings,V,Casa,21,5,2,115 - 130,7,3,33:25
+0022400558,Jan 14,Sacramento Kings,V,Casa,24,5,7,115 - 130,8,5,35:06
+0022400564,Jan 15,Orlando Magic,V,Casa,26,11,4,93 - 122,0,0,29:50
+0022400564,Jan 15,Orlando Magic,V,Casa,13,5,2,93 - 122,1,0,31:12
+0022400564,Jan 15,Orlando Magic,V,Casa,30,5,4,93 - 122,3,3,30:29
+0022400580,Jan 17,Toronto Raptors,V,Casa,35,13,3,112 - 130,1,0,35:24
+0022400580,Jan 17,Toronto Raptors,V,Casa,9,7,5,112 - 130,3,1,34:12
+0022400580,Jan 17,Toronto Raptors,V,Casa,26,3,8,112 - 130,7,4,35:51
+0022400594,Jan 19,Philadelphia 76ers,V,Casa,34,15,6,109 - 123,0,0,36:14
+0022400594,Jan 19,Philadelphia 76ers,V,Casa,12,7,3,109 - 123,3,2,35:41
+0022400594,Jan 19,Philadelphia 76ers,V,Casa,25,5,4,109 - 123,11,4,39:55
+0022400624,Jan 23,Miami Heat,V,Casa,25,12,4,96 - 125,0,0,31:56
+0022400624,Jan 23,Miami Heat,V,Casa,11,3,1,96 - 125,4,1,34:32
+0022400624,Jan 23,Miami Heat,V,Casa,29,10,11,96 - 125,14,5,35:30
+0022400646,Jan 25,LA Clippers,D,Fora,36,13,1,127 - 117,1,0,35:00
+0022400646,Jan 25,LA Clippers,D,Fora,13,4,1,127 - 117,7,3,41:09
+0022400646,Jan 25,LA Clippers,D,Fora,29,10,10,127 - 117,9,1,39:54
+0022400658,Jan 27,Utah Jazz,V,Fora,35,18,7,110 - 125,1,0,36:37
+0022400658,Jan 27,Utah Jazz,V,Fora,10,6,1,110 - 125,4,1,35:29
+0022400658,Jan 27,Utah Jazz,V,Fora,35,5,8,110 - 125,10,4,41:26
+0022400662,Jan 28,Portland Trail Blazers,D,Fora,39,12,5,125 - 112,0,0,35:55
+0022400662,Jan 28,Portland Trail Blazers,D,Fora,11,3,3,125 - 112,9,3,34:44
+0022400662,Jan 28,Portland Trail Blazers,D,Fora,20,3,6,125 - 112,6,2,38:25
+0022400684,Jan 31,San Antonio Spurs,D,Fora,35,14,6,144 - 118,1,0,34:00
+0022400684,Jan 31,San Antonio Spurs,D,Fora,6,5,3,144 - 118,3,0,24:06
+0022400684,Jan 31,San Antonio Spurs,D,Fora,22,3,7,144 - 118,7,3,37:29
+0022400699,Feb 2,Memphis Grizzlies,D,Casa,30,11,7,132 - 119,3,2,37:11
+0022400699,Feb 2,Memphis Grizzlies,D,Casa,15,2,2,132 - 119,7,3,31:50
+0022400699,Feb 2,Memphis Grizzlies,D,Casa,15,3,9,132 - 119,8,2,37:12
+0022400717,Feb 5,Charlotte Hornets,V,Fora,14,3,0,102 - 112,7,4,30:11
+0022400717,Feb 5,Charlotte Hornets,V,Fora,29,4,12,102 - 112,9,3,30:32
+0022400717,Feb 5,Charlotte Hornets,V,Fora,0,0,0,102 - 112,0,0,
+0022400736,Feb 7,Atlanta Hawks,D,Fora,16,2,2,115 - 110,5,1,34:31
+0022400736,Feb 7,Atlanta Hawks,D,Fora,23,9,10,115 - 110,13,4,34:53
+0022400754,Feb 9,Philadelphia 76ers,V,Casa,15,8,0,127 - 135,5,2,24:01
+0022400754,Feb 9,Philadelphia 76ers,V,Casa,43,7,8,127 - 135,15,8,43:50
